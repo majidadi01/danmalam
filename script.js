@@ -7,8 +7,8 @@ const products = [
     { id: 2, name: "Sport Diver Pro", price: 380000, image: "image-200.jpg" },
     { id: 3, name: "Limited Edition Gold", price: 890000, image: "image-300.jpg" },
     { id: 4, name: "Classic Moonphase", price: 520000, image: "image-400.jpg" },
-    { id: 5, name: "Aviator GMT", price: 495000, image: "image-100.jpg" },
-    { id: 6, name: "Skeleton Elite", price: 750000, image: "image-200.jpg" }
+    
+    
 ];
 
 // CART
